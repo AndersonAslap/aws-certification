@@ -1,7 +1,3 @@
-Vou montar um **README completo**, como se fosse para um repositório de estudos sobre certificações AWS. Ele cobre **estrutura das certificações, preparação, exames, custos, formato das provas, registro e dicas estratégicas**.
-
----
-
 # ☁️ AWS Certifications Guide
 
 Guia completo para entender, preparar-se e realizar as certificações da **Amazon Web Services (AWS)**.
